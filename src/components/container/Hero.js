@@ -18,7 +18,7 @@ const Hero = () => {
               Let's Connect
             </button>
           </div>
-          <div className="hidden lg:flex flex-1 justify-end items-end h-full -translate-y-28">
+          <div className="hidden lg:flex flex-1 justify-end items-end h-full -translate-y-24">
             <img src={ProfileImg} alt=""></img>
           </div>
         </div>
